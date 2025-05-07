@@ -1,4 +1,3 @@
-!pip install streamlit boto3 python-dotenv groq botocore PyPDF2
 import streamlit as st
 from groq import Groq
 import PyPDF2
