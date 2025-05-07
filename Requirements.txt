@@ -1,0 +1,6 @@
+streamlit
+boto3
+python-dotenv
+groq
+botocore
+PyPDF2
