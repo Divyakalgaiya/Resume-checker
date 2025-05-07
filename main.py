@@ -1,5 +1,5 @@
 import streamlit as st
-from groq import Groq
+from langchain.llms import Groq
 import PyPDF2
 import io
 import os
