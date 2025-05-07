@@ -1,6 +1,6 @@
 streamlit
 boto3
 python-dotenv
-groq
+langchain
 botocore
 PyPDF2
